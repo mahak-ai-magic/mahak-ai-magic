@@ -89,18 +89,29 @@
       <div class="video-title">Mahak Dance Party 💃🌈</div>
       <a href="https://www.youtube.com/@MahakAIMagic" target="_blank">Watch on YouTube</a>
     </div>
-  </url>
+  </div>
+</section>
 
-  <!-- صفحه درباره ما -->
-  <url>
-    <loc>https://mahak-ai-magic.github.io/about</loc>
-    <priority>0.7</priority>
-  </url>
+<section id="about" class="section">
+  <h2>About Mahak AI Magic</h2>
+  <div class="about">
+    Mahak AI Magic creates joyful, safe and colorful content for children.  
+    Our videos include songs, stories, dances and simple educational moments — all designed to inspire imagination and happiness.
+  </div>
+</section>
 
-  <!-- صفحه تماس -->
-  <url>
-    <loc>https://mahak-ai-magic.github.io/contact</loc>
-    <priority>0.7</priority>
-  </url>
+<section id="contact" class="section">
+  <h2>Contact</h2>
+  <p>Email: mahakmatloob403@gmail.com</p>
+  <div class="socials">
+    <a href="https://www.youtube.com/@MahakAIMagic" target="_blank">YouTube</a>
+    <a href="#" target="_blank">Instagram</a>
+  </div>
+</section>
 
-</urlset><?xml version="1.0" encoding="UTF
+<footer>
+  © 2026 Mahak AI Magic – All rights reserved.
+</footer>
+
+</body>
+</html>
