@@ -1,0 +1,12 @@
+robots.txt, sitemap.xml, and OpenGraph improvements"<!-- OpenGraph -->
+<meta property="og:title" content="Mahak AI Magic – Kids Songs, Stories & Fun Learning">
+<meta property="og:description" content="Colorful, fun and safe videos for children – Baby Doctor, songs, stories and more.">
+<meta property="og:image" content="https://mahak-ai-magic.github.io/thumbnail.jpg">
+<meta property="og:url" content="https://mahak-ai-magic.github.io/">
+<meta property="og:type" content="website">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Mahak AI Magic – Kids Songs, Stories & Fun Learning">
+<meta name="twitter:description" content="Colorful, fun and safe videos for children.">
+<meta name="twitter:image" content="https://mahak-ai-magic.github.io/thumbnail.jpg">
