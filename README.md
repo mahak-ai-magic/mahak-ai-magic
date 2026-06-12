@@ -115,3 +115,57 @@
 
 </body>
 </html>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- صفحه اصلی -->
+  <url>
+    <loc>https://mahak-ai-magic.github.io/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- صفحه ویدیوها -->
+  <url>
+    <loc>https://mahak-ai-magic.github.io/videos</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- صفحه آهنگ‌ها -->
+  <url>
+    <loc>https://mahak-ai-magic.github.io/songs</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- صفحه Baby Doctor -->
+  <url>
+    <loc>https://mahak-ai-magic.github.io/baby-doctor</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- صفحه داستان‌ها -->
+  <url>
+    <loc>https://mahak-ai-magic.github.io/stories</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- صفحه درباره ما -->
+  <url>
+    <loc>https://mahak-ai-magic.github.io/about</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- صفحه تماس -->
+  <url>
+    <loc>https://mahak-ai-magic.github.io/contact</loc>
+    <priority>0.7</priority>
+  </url>
+
+</urlset><?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://mahak-ai-magic.github.io/</loc>
+    <priority>1.0</priority>
+  </url>
+
+</urlset>
